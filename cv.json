@@ -1,0 +1,276 @@
+{
+  "basics": {
+    "name": "Angel Tena",
+    "label": "Full Stack Developer",
+    "image": "src/assets/yop.jpg",
+    "email": "angeltena@gmail.com",
+    "phone": "5516235406",
+    "url": "",
+    "summary": "Soy un apasionado desarrollador web junior con una profunda motivación por aprender y crecer en la industria tecnológica. Mi interés por la creación de soluciones digitales me impulsó a adentrarme en el mundo del desarrollo web. Mi enfoque se centra en la construcción de interfaces intuitivas y funcionales que mejoren la experiencia del usuario. Poseo habilidades sólidas en tecnologías clave como HTML, CSS y JavaScript, y estoy comprometido con la mejora continua a través de proyectos personales y formación adicional.",
+    "location": {
+      "address": "",
+      "postalCode": "53800",
+      "city": "Estado de Mexico",
+      "countryCode": "ES",
+      "region": "Mexico"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Angel Tena",
+        "url": "https://www.linkedin.com/in/angeltena"
+      },
+      {
+        "network": "GitHub",
+        "username": "AngelTena27",
+        "url": "https://github.com/AngelTena27"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Reyca",
+      "position": "Pasantia como diseñador web",
+      "url": "",
+      "startDate": "2021-11-01",
+      "endDate": "2022-11-01",
+      "summary": "Contribuí al diseño basico de proyectos utilizando Figma. Enfocado en la creación de soluciones visualmente atractivas y funcionales, fortalecí mis habilidades en diseño y aprendí a aplicar principios efectivos en un entorno empresarial.",
+      "highlights": [
+        "y"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights":""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Henry",
+      "url": "",
+      "area": "Full Stack Developer",
+      "studyType": "",
+      "startDate": "2023-06-01",
+      "endDate": "2024-02-01",
+      "score": "4.0",
+      "courses": [
+        "React.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "express",
+        "node.js"
+      ]
+    },
+    {
+      "institution": "Udemy",
+      "url": "",
+      "area": "Full Stack Developer",
+      "studyType": "",
+      "startDate": "2023-06-01",
+      "endDate": "2024-02-01",
+      "score": "4.0",
+      "courses": [
+        "React.js", "mongoDB", "Next.js", "TypeScript"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Proyecto Int.",
+      "isActive": "",
+      "description": "Proyecto Integrador sobre Rick and Morty ",
+      "highlights": [
+        "Seleccion de personajes",
+        "Busqueda por id"
+      ],
+      "url": ""
+    },
+    {
+      "name": "PI",
+      "isActive": "",
+      "description": "Proyecto inicial donde podras buscar entre diferentes conductores y ver sobre ellos",
+      "highlights": [
+        "Primer proyecto en henry"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Mountain Haven",
+      "isActive": true,
+      "description": "Proyecto final donde realizamos un Airbnb con funcionalidades de registro y pago",
+      "highlights": [
+        "Uso de mongodb",
+        "Proyecto hecho por un equipo de 6 personas"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Netflix-clone",
+      "isActive": "",
+      "description": "Aplicacion creada con diseño y funcionalidades de netflix en Next",
+      "highlights": [
+        "Auth Google y Github",
+        "ORM Prisma"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    }
+  ]
+}
