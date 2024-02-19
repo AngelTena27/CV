@@ -2,7 +2,7 @@
   "basics": {
     "name": "Angel Tena",
     "label": "Full Stack Developer",
-    "image": "src/assets/yop.jpg",
+    "image": "/yop.jpg",
     "email": "angeltena@gmail.com",
     "phone": "5516235406",
     "url": "",
