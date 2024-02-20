@@ -263,14 +263,13 @@
     },
     {
       "name": "Netflix-clone",
-      "isActive": "",
+      "isActive": true,
       "description": "Aplicacion creada con diseño y funcionalidades de netflix en Next",
       "highlights": [
         "Auth Google y Github",
         "ORM Prisma"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://netflix-clone2742.netlify.app/"
     }
   ]
 }
